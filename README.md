@@ -1,2 +1,3 @@
 # personalsite
-dummy personal site created as part of bootcamp.
+Built dummy personal site created as part of bootcamp course using HTML and CSS.
+Link: https://shekaryenagandula.github.io/personalsite/
